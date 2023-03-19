@@ -21,7 +21,8 @@ author: Mithil Patel
 | HD (1080p) Uncompressed Video (15 minutes) | 335.25 GB     |
 | 4K UHD HEVC Video (15 minutes)             | 5.25 GB       |
 | 4k UHD Uncompressed Video (15 minutes)     | 1.3 TB        |
-| Human Genome (Uncompressed)                | 180 GB        |
+| Human Genome (Uncompressed)                | 750 MB        |
+|                                            | or 200 GB     |
 
 # Calculations
     # 128 character per message
