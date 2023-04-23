@@ -1,0 +1,30 @@
+Actual Image Cat.. 
+Prediction:[('n02127052', 'lynx', 0.6576129), ('n02123045', 'tabby', 0.17692846), ('n02124075', 'Egyptian_cat', 0.07625385)]
+
+Actual Image Sunset.. 
+Prediction:[('n09428293', 'seashore', 0.80903304), ('n09399592', 'promontory', 0.105786666), ('n03240683', 'drilling_platform', 0.041769132)]
+
+Actual Image Bridge.. 
+Prediction:[('n04366367', 'suspension_bridge', 0.99939144), ('n03933933', 'pier', 0.0004758753), ('n02788148', 'bannister', 2.067465e-05)]
+
+Actual Image Forest.. 
+Prediction:[('n09332890', 'lakeside', 0.35726976), ('n03792972', 'mountain_tent', 0.11392182), ('n03792782', 'mountain_bike', 0.05007083)]
+
+Actual Image Flower.. 
+Prediction:[('n12057211', "yellow_lady's_slipper", 0.5708571), ('n02281406', 'sulphur_butterfly', 0.20499003), ('n13044778', 'earthstar', 0.046552844)]
+
+Actual Image Jupiter.. 
+Prediction:[('n04522168', 'vase', 0.34708706), ('n01968897', 'chambered_nautilus', 0.2239215), ('n12267677', 'acorn', 0.1641269)]
+
+Actual Image Mushroom.. 
+Prediction:[('n13054560', 'bolete', 0.95051247), ('n07734744', 'mushroom', 0.048109923), ('n13037406', 'gyromitra', 0.00051986787)]
+
+Actual Image Mona Lisa.. 
+Prediction:[('n07248320', 'book_jacket', 0.6854218), ('n03534580', 'hoopskirt', 0.053153403), ('n06596364', 'comic_book', 0.028875504)]
+
+Actual Image Bear.. 
+Prediction:[('n02132136', 'brown_bear', 0.9836766), ('n02133161', 'American_black_bear', 0.014253729), ('n02437312', 'Arabian_camel', 0.0004053205)]
+
+Actual Image Mountain.. 
+Prediction:[('n09468604', 'valley', 0.4546783), ('n09193705', 'alp', 0.10228325), ('n02793495', 'barn', 0.07431882)]
+
