@@ -1,0 +1,5 @@
+,Format,Uncompressed,Compressed(.gz),COmpressed(snappy)
+0,parquet,1975439,1645984,1956743
+1,txt,0,42,1
+2,pb,1336,499,579
+3,avro,19646145,1750969,3015408
